@@ -14,5 +14,5 @@ spec:
     spec:
       containers:
         - name: my-react-app-container
-          image: 27564580/my-react-app:3827da2650bd831bec6999e3d67378659f00aa53
+          image: 27564580/my-react-app:
         
