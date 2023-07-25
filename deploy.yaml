@@ -14,5 +14,5 @@ spec:
     spec:
       containers:
         - name: my-react-app-container
-          image: ghcr.io/gagan4580/my-react-app:2491334b39276c9ede8d23d49f013be0ef7a3626
+          image: ghcr.io/gagan4580/my-react-app:e9c2501252b4ae235e584708a963be7b2d6729cf
         
